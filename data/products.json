@@ -1,0 +1,147 @@
+{
+  "calentador-manos": {
+    "category": "invierno-regalo",
+    "created": "2026-10-14",
+    "markets": {},
+    "name": "Calentador de manos recargable",
+    "need": "Calor portátil y regalo de bajo precio",
+    "price_observed_eur": [
+      20.0,
+      35.0
+    ],
+    "risks": [],
+    "status": "candidato",
+    "type": "estacional",
+    "updated": "2026-10-14"
+  },
+  "corrector-postura": {
+    "category": "salud-bienestar",
+    "created": "2026-10-14",
+    "markets": {},
+    "name": "Corrector de postura",
+    "need": "Dolor de espalda por trabajo sentado",
+    "price_observed_eur": [
+      20.0,
+      35.0
+    ],
+    "risks": [],
+    "status": "candidato",
+    "type": "evergreen",
+    "updated": "2026-10-14"
+  },
+  "manta-electrica": {
+    "category": "hogar-invierno",
+    "created": "2026-10-14",
+    "markets": {
+      "DE": {
+        "confidence": "baja",
+        "reason": "Gran importador según informe de pago; falta demanda de búsqueda, anuncios y competencia",
+        "stance": "alternativo",
+        "updated": "2026-10-14"
+      },
+      "ES": {
+        "confidence": "baja",
+        "reason": "Clima suave en gran parte del país; sin datos de demanda",
+        "stance": "desconocido",
+        "updated": "2026-10-14"
+      },
+      "PL": {
+        "confidence": "baja",
+        "reason": "BLIK/ecommerce crecen, pero Polonia fabrica y exporta mantas: competencia local sin medir",
+        "stance": "desconocido",
+        "updated": "2026-10-14"
+      }
+    },
+    "name": "Manta eléctrica / calefactable",
+    "need": "Calor barato frente al coste de calefacción en invierno",
+    "price_observed_eur": [
+      30.0,
+      70.0
+    ],
+    "risks": [],
+    "status": "candidato",
+    "type": "estacional",
+    "updated": "2026-10-14"
+  },
+  "mini-proyector": {
+    "category": "electronica-hogar",
+    "created": "2026-10-14",
+    "markets": {
+      "DE": {
+        "confidence": "baja",
+        "reason": "Categoría saturada en publicidad según listas; sin medir",
+        "stance": "desconocido",
+        "updated": "2026-10-14"
+      }
+    },
+    "name": "Mini proyector portátil",
+    "need": "Cine en casa / regalo tecnológico",
+    "price_observed_eur": [
+      50.0,
+      90.0
+    ],
+    "risks": [],
+    "status": "candidato",
+    "type": "estacional",
+    "updated": "2026-10-14"
+  },
+  "powerbank-magnetico": {
+    "category": "electronica-accesorios",
+    "created": "2026-10-14",
+    "markets": {},
+    "name": "Power bank magnético / cargador 3 en 1",
+    "need": "Carga inalámbrica cómoda",
+    "price_observed_eur": [
+      25.0,
+      60.0
+    ],
+    "risks": [],
+    "status": "candidato",
+    "type": "evergreen",
+    "updated": "2026-10-14"
+  },
+  "puzzle-3d-madera": {
+    "category": "regalo-hobby",
+    "created": "2026-10-14",
+    "markets": {
+      "DE": {
+        "confidence": "baja",
+        "reason": "Cultura de bricolaje/maquetas plausible; hipótesis sin datos",
+        "stance": "desconocido",
+        "updated": "2026-10-14"
+      },
+      "ES": {
+        "confidence": "baja",
+        "reason": "Regalo de bajo riesgo regulatorio y logístico; sin datos de demanda ni competencia",
+        "stance": "alternativo",
+        "updated": "2026-10-14"
+      }
+    },
+    "name": "Puzzle 3D de madera (maquetas)",
+    "need": "Regalo/pasatiempo de bajo riesgo, muy demostrable en vídeo",
+    "price_observed_eur": [
+      25.0,
+      45.0
+    ],
+    "risks": [],
+    "status": "candidato",
+    "type": "estacional",
+    "updated": "2026-10-14"
+  },
+  "quitapelos-mascotas": {
+    "category": "mascotas-hogar",
+    "created": "2026-10-14",
+    "discard_reason": "Precio típico <25 € y margen absoluto bajo para cubrir publicidad en Q4 (CPM +40-80%); sin evidencia de ventaja",
+    "markets": {},
+    "name": "Rodillo quitapelos de mascotas",
+    "need": "Limpieza de pelo en tapicería/ropa",
+    "price_observed_eur": [
+      12.0,
+      25.0
+    ],
+    "risks": [],
+    "status": "descartado",
+    "type": "evergreen",
+    "updated": "2026-10-14"
+  }
+}

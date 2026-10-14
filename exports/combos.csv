@@ -1,0 +1,7 @@
+product,name,country,stance,confidence,verificado,estimacion,hipotesis,costs_basis,breakeven_cpa,reason
+puzzle-3d-madera,Puzzle 3D de madera (maquetas),ES,alternativo,baja,0,3,0,sin datos,,Regalo de bajo riesgo regulatorio y logístico; sin datos de demanda ni competencia
+manta-electrica,Manta eléctrica / calefactable,DE,alternativo,baja,0,2,2,sin datos,,"Gran importador según informe de pago; falta demanda de búsqueda, anuncios y competencia"
+puzzle-3d-madera,Puzzle 3D de madera (maquetas),DE,desconocido,baja,0,3,0,sin datos,,Cultura de bricolaje/maquetas plausible; hipótesis sin datos
+manta-electrica,Manta eléctrica / calefactable,PL,desconocido,baja,0,2,3,sin datos,,"BLIK/ecommerce crecen, pero Polonia fabrica y exporta mantas: competencia local sin medir"
+manta-electrica,Manta eléctrica / calefactable,ES,desconocido,baja,0,1,2,sin datos,,Clima suave en gran parte del país; sin datos de demanda
+mini-proyector,Mini proyector portátil,DE,desconocido,baja,0,1,0,sin datos,,Categoría saturada en publicidad según listas; sin medir

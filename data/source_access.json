@@ -1,0 +1,15 @@
+{
+  "checked": "2026-10-14",
+  "hosts": {
+    "ads.tiktok.com/business/creativecenter": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "es.wikipedia.org": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "facebook.com/ads/library": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "trends.google.com": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "www.aliexpress.com": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "www.amazon.de": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "www.cjdropshipping.com": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "www.idealo.de": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "www.reddit.com": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)",
+    "www.trendtrack.io": "bloqueado (<urlopen error Tunnel connection failed: 403 Forbidden>)"
+  }
+}
